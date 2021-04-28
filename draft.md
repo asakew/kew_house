@@ -9,13 +9,16 @@ Assalomu alaaykum hammaga Man **Akmal Sindorov / asaKew-man**, va bu usullar int
 
 2. Usul:
 	* Freelancer-lik 2-usulda: **Erkin** va **Ofisniy**
-		* Erkin Freelancer: bu **uzingiz mustaqil** va uz nomi bilan erkin ishlaysiz), va sizga xech kim xujayn bulmaydi, va xech kimga paxta 	quymaysiz xD, va mijozni uzingz topishingiz mumkin) yoki sizni topadi)
+		* Erkin Freelancer: bu **uzingiz mustaqil** va uz nomi bilan erkin ishlaysiz), va sizga xech kim xujayn bulmaydi, va xech kimga paxta quymaysiz xD, va mijozni uzingz topishingiz mumkin) yoki sizni topadi)
+			<!-- * **Erkin Freelancer-lar turlari:** -->
+			<!-- * ... -->
 			* va narxniga kelsak narxni siz uziningiz belgilashingiz mumkin yoki mijoz xizmat narxiga qarab xizmat kursatishingiz mumkin **misol uchun: 400.000, 1.700.000 ming so'm**
 		* Ofisniy Freelancer: qanqaydur turga mutahahislangan ofisga ishlashingiz mumkin: Voqtiga kelib, voqtiga ketasiz, voqtiga oyliginigzni olasiz - kelishilgan miqdorda...
 
 3. Usul:
 	* Bloger/Vaynerlik qilib va ijtiomoiy tarmoqlardan pul topsangiz buladi) 
-	* ...
+		<!-- * **Blogerlik turlari:** -->
+	* narxiga kelsak: oyiga 500.000 ming sum, 5.000.000 mln sum, xullas pul topsishingiz xarakatlaringizga bog'liq bu miqdordan balkim ko'proq topishinigiz) mumkin yoki kamroq(
 
 4. Usul:
 	* Kichik/oddiy ishlar orqali yani siz kimnidur ijtimoiy tarmog'iga kirib, u profiliga:
